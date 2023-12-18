@@ -1,6 +1,6 @@
 {
   "posts": [
-    "catenaXId" : "urn:uuid:055c1128-0375-47c8-98de-7cf802c3241d",
+    "id" : "urn:uuid:055c1128-0375-47c8-98de-7cf802c3241d",
     "childParts" : [ {
       "childPartsCategory" : "e.g. vehicle, winter wheels, bicycle rack",
       "part" : [ {
